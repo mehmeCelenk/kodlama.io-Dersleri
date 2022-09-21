@@ -1,2 +1,2 @@
-# kodlama.io-Dersleri
+# kodlama.io-Dersleri1.hafta
 kodlama.io Dersleri
